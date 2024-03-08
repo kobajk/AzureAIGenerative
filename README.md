@@ -14,35 +14,38 @@ Através do conhecimento adquirido no bootcamp, utilize os recursos de IA do Azu
 
 Primeiro precisei criar um recurso de inteligência virtual, pesquisei por Azure AI Services no marketplace, após encontrar o recurso cliquei em criar.
 
-![image](https://github.com/kobajk/AzureAIGenerative/assets/50890222/259e6d92-b4fe-4dde-9fe7-021a3f54e052)
+![image](https://github.com/kobajk/AzureAIGenerative/assets/50890222/c7b37385-7ead-43d5-b9f7-27d77c56dadb)
+
 
 
 ## Passo 2: Abrindo e configurando o Portal AI Vision Studio
 
-Após criar o seu serviço de inteligencia virtual do Azure, nasta abrir o Azure AI Vision Studio e selecionar o serviço de inteligência artificial que acabamos de criar, feito isto ja esta tudo pronto para utilizarmos as nossas imagens.
+Após criar o seu serviço de inteligencia virtual do Azure, abra o Azure AI Vision Studio e selecionar o serviço de inteligência artificial que acabamos de criar.
 
-![image](https://github.com/kobajk/AzureAIGenerative/assets/50890222/910ed226-7c77-4571-846e-cdab01be9776)
+![image](https://github.com/kobajk/AzureAIGenerative/assets/50890222/04bb842e-10f8-4c79-bcfa-11d09a805bf3)
+
 
 
 ## Passo 3: Utilizando as nossas imagens no serviço Azure AI Vision Studio
 
-Feitas todas as configurações, basta apenas selecionar a guia OPTICAL CHARACTER RECOGNITION e escolher a opção EXTRACT TEXT FROM IMAGES:
+Após configurar seu recurso, basta selecionar a guia OPTICAL CHARACTER RECOGNITION e escolher a opção EXTRACT TEXT FROM IMAGES:
 
 ## Imagem 01:
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/03.gif" width=""/> ... 
+![image](https://github.com/kobajk/AzureAIGenerative/assets/50890222/2c6a1e2a-438a-4854-b360-50a0c9eda96a)
+
 
 ## Imagem 02:
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/04.gif" width=""/> ... 
+![image](https://github.com/kobajk/AzureAIGenerative/assets/50890222/79236375-3027-44fc-9de5-d93ab4c6c6c6)
+
 
 ## Imagem 03:
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/05.gif" width=""/> ... 
+![image](https://github.com/kobajk/AzureAIGenerative/assets/50890222/7e71063c-1e7a-40d4-a222-adffe6de0e82)
+
 
 ## Imagem 04:
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/06.gif" width=""/> ... 
+![image](https://github.com/kobajk/AzureAIGenerative/assets/50890222/c57f5b91-588f-4f26-9d77-08d84e23fc11)
 
-## Imagem 05:
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/07.gif" width=""/> ... 
 
 ## Considerações finais
 
-A funcionalidade do Azure para reconhecimento e extração de texto em imagens oferece às empresas a capacidade de identificar e arquivar documentos de forma rápida e segura. Essa tecnologia é igualmente eficaz para o processamento de notas fiscais, exigindo somente o carregamento da imagem do documento na plataforma para que as informações sejam automaticamente extraídas.
+O Azure disponibiliza um recurso de detecção e extração de texto em imagens que permite às organizações identificar e arquivar documentos de maneira eficiente e protegida. A aplicação também se estende ao tratamento de notas fiscais, bastando apenas o upload da imagem do documento para que a plataforma reconheça e extraia os dados de forma autônoma.
